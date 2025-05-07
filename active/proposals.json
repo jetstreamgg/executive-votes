@@ -1,4 +1,4 @@
 {
   "mainnet": [],
-  "tenderly": []
+  "tenderly": ["https://raw.githubusercontent.com/jetstreamgg/executive-votes/refs/heads/testnet/2024/executive-vote-2024-04-04.md"]
 }
